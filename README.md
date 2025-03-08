@@ -1,3 +1,12 @@
+# Project: Data Clean
+
+## Required Libraries
+- pandas
+- json
+- matplotlib.pyplot
+
+## Step by Step
+
 1. ### Data Reading:
     - A `.jsonlines` file was read and converted into a pandas DataFrame to facilitate manipulation and analysis.
 
